@@ -1,0 +1,88 @@
+{
+  "source": "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/115PedalMate/115PedalMate/Views/Challenges/AddChallengeView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "New challenge",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 49
+        }
+      },
+      {
+        "comment": "",
+        "key": "Targets",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 25
+        }
+      },
+      {
+        "comment": "",
+        "key": "Name",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 22
+        }
+      },
+      {
+        "comment": "",
+        "key": "Active days: %lld",
+        "location": {
+          "startingColumn": 29,
+          "startingLine": 34
+        }
+      },
+      {
+        "comment": "",
+        "key": "Distance (km)",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 27
+        }
+      },
+      {
+        "comment": "",
+        "key": "",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 29
+        }
+      },
+      {
+        "comment": "",
+        "key": "Deadline",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 38
+        }
+      },
+      {
+        "comment": "",
+        "key": "Due date",
+        "location": {
+          "startingColumn": 36,
+          "startingLine": 41
+        }
+      },
+      {
+        "comment": "",
+        "key": "Cancel",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 53
+        }
+      },
+      {
+        "comment": "",
+        "key": "Save",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 59
+        }
+      }
+    ]
+  },
+  "version": 1
+}

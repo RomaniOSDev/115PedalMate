@@ -1,0 +1,48 @@
+{
+  "source": "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/115PedalMate/115PedalMate/ContentView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Home",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 28
+        }
+      },
+      {
+        "comment": "",
+        "key": "Bikes",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 34
+        }
+      },
+      {
+        "comment": "",
+        "key": "Routes",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 40
+        }
+      },
+      {
+        "comment": "",
+        "key": "Challenges",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 46
+        }
+      },
+      {
+        "comment": "",
+        "key": "Statistics",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 52
+        }
+      }
+    ]
+  },
+  "version": 1
+}

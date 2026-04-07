@@ -1,0 +1,48 @@
+{
+  "source": "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/115PedalMate/115PedalMate/Views/Maintenance/MaintenanceView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Maintenance",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 55
+        }
+      },
+      {
+        "comment": "",
+        "key": "No service records yet.",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 20
+        }
+      },
+      {
+        "comment": "",
+        "key": "Delete",
+        "location": {
+          "startingColumn": 39,
+          "startingLine": 34
+        }
+      },
+      {
+        "comment": "",
+        "key": "Log service",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 41
+        }
+      },
+      {
+        "comment": "",
+        "key": "Odometer: %lld km",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 82
+        }
+      }
+    ]
+  },
+  "version": 1
+}

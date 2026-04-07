@@ -1,0 +1,23 @@
+{
+  "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/115PedalMate/115PedalMate/Models/RideType.swift" : {
+    "const-values" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/115PedalMate/build/DerivedData/Build/Intermediates.noindex/115PedalMate.build/Debug-iphonesimulator/115PedalMate.build/Objects-normal/x86_64/RideType.swiftconstvalues",
+    "dependencies" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/115PedalMate/build/DerivedData/Build/Intermediates.noindex/115PedalMate.build/Debug-iphonesimulator/115PedalMate.build/Objects-normal/x86_64/RideType.d",
+    "diagnostics" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/115PedalMate/build/DerivedData/Build/Intermediates.noindex/115PedalMate.build/Debug-iphonesimulator/115PedalMate.build/Objects-normal/x86_64/RideType.dia",
+    "object" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/115PedalMate/build/DerivedData/Build/Intermediates.noindex/115PedalMate.build/Debug-iphonesimulator/115PedalMate.build/Objects-normal/x86_64/RideType.o",
+    "swift-dependencies" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/115PedalMate/build/DerivedData/Build/Intermediates.noindex/115PedalMate.build/Debug-iphonesimulator/115PedalMate.build/Objects-normal/x86_64/RideType.swiftdeps"
+  },
+  "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/115PedalMate/115PedalMate/Models/Route.swift" : {
+    "const-values" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/115PedalMate/build/DerivedData/Build/Intermediates.noindex/115PedalMate.build/Debug-iphonesimulator/115PedalMate.build/Objects-normal/x86_64/Route.swiftconstvalues",
+    "dependencies" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/115PedalMate/build/DerivedData/Build/Intermediates.noindex/115PedalMate.build/Debug-iphonesimulator/115PedalMate.build/Objects-normal/x86_64/Route.d",
+    "diagnostics" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/115PedalMate/build/DerivedData/Build/Intermediates.noindex/115PedalMate.build/Debug-iphonesimulator/115PedalMate.build/Objects-normal/x86_64/Route.dia",
+    "object" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/115PedalMate/build/DerivedData/Build/Intermediates.noindex/115PedalMate.build/Debug-iphonesimulator/115PedalMate.build/Objects-normal/x86_64/Route.o",
+    "swift-dependencies" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/115PedalMate/build/DerivedData/Build/Intermediates.noindex/115PedalMate.build/Debug-iphonesimulator/115PedalMate.build/Objects-normal/x86_64/Route.swiftdeps"
+  },
+  "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/115PedalMate/115PedalMate/Models/Terrain.swift" : {
+    "const-values" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/115PedalMate/build/DerivedData/Build/Intermediates.noindex/115PedalMate.build/Debug-iphonesimulator/115PedalMate.build/Objects-normal/x86_64/Terrain.swiftconstvalues",
+    "dependencies" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/115PedalMate/build/DerivedData/Build/Intermediates.noindex/115PedalMate.build/Debug-iphonesimulator/115PedalMate.build/Objects-normal/x86_64/Terrain.d",
+    "diagnostics" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/115PedalMate/build/DerivedData/Build/Intermediates.noindex/115PedalMate.build/Debug-iphonesimulator/115PedalMate.build/Objects-normal/x86_64/Terrain.dia",
+    "object" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/115PedalMate/build/DerivedData/Build/Intermediates.noindex/115PedalMate.build/Debug-iphonesimulator/115PedalMate.build/Objects-normal/x86_64/Terrain.o",
+    "swift-dependencies" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/115PedalMate/build/DerivedData/Build/Intermediates.noindex/115PedalMate.build/Debug-iphonesimulator/115PedalMate.build/Objects-normal/x86_64/Terrain.swiftdeps"
+  }
+}

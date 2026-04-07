@@ -1,0 +1,88 @@
+{
+  "source": "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/115PedalMate/115PedalMate/Views/Routes/AddRouteView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "New route",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 54
+        }
+      },
+      {
+        "comment": "",
+        "key": "Description",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 41
+        }
+      },
+      {
+        "comment": "",
+        "key": "Name",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 22
+        }
+      },
+      {
+        "comment": "",
+        "key": "Distance (km)",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 25
+        }
+      },
+      {
+        "comment": "",
+        "key": "",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 27
+        }
+      },
+      {
+        "comment": "",
+        "key": "Elevation (m)",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 33
+        }
+      },
+      {
+        "comment": "",
+        "key": "",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 35
+        }
+      },
+      {
+        "comment": "",
+        "key": "Favorite",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 47
+        }
+      },
+      {
+        "comment": "",
+        "key": "Cancel",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 58
+        }
+      },
+      {
+        "comment": "",
+        "key": "Save",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 64
+        }
+      }
+    ]
+  },
+  "version": 1
+}

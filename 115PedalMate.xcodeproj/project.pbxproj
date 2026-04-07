@@ -3,33 +3,95 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 77;
+	objectVersion = 60;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		746A1F912F85408A0076A047 /* AppExternalLink.swift in Sources */ = {isa = PBXBuildFile; fileRef = 746A1F552F85408A0076A047 /* AppExternalLink.swift */; };
+		746A1F922F85408A0076A047 /* PedalColors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 746A1F572F85408A0076A047 /* PedalColors.swift */; };
+		746A1F932F85408A0076A047 /* PedalDesign.swift in Sources */ = {isa = PBXBuildFile; fileRef = 746A1F582F85408A0076A047 /* PedalDesign.swift */; };
+		746A1F942F85408A0076A047 /* DateFormatting.swift in Sources */ = {isa = PBXBuildFile; fileRef = 746A1F5A2F85408A0076A047 /* DateFormatting.swift */; };
+		746A1F952F85408A0076A047 /* Bike.swift in Sources */ = {isa = PBXBuildFile; fileRef = 746A1F5D2F85408A0076A047 /* Bike.swift */; };
+		746A1F962F85408A0076A047 /* BikeMaintenance.swift in Sources */ = {isa = PBXBuildFile; fileRef = 746A1F5E2F85408A0076A047 /* BikeMaintenance.swift */; };
+		746A1F972F85408A0076A047 /* Challenge.swift in Sources */ = {isa = PBXBuildFile; fileRef = 746A1F5F2F85408A0076A047 /* Challenge.swift */; };
+		746A1F982F85408A0076A047 /* Ride.swift in Sources */ = {isa = PBXBuildFile; fileRef = 746A1F602F85408A0076A047 /* Ride.swift */; };
+		746A1F992F85408A0076A047 /* RideType.swift in Sources */ = {isa = PBXBuildFile; fileRef = 746A1F612F85408A0076A047 /* RideType.swift */; };
+		746A1F9A2F85408A0076A047 /* Route.swift in Sources */ = {isa = PBXBuildFile; fileRef = 746A1F622F85408A0076A047 /* Route.swift */; };
+		746A1F9B2F85408A0076A047 /* Terrain.swift in Sources */ = {isa = PBXBuildFile; fileRef = 746A1F632F85408A0076A047 /* Terrain.swift */; };
+		746A1F9C2F85408A0076A047 /* Weather.swift in Sources */ = {isa = PBXBuildFile; fileRef = 746A1F642F85408A0076A047 /* Weather.swift */; };
+		746A1F9D2F85408A0076A047 /* PedalMateViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 746A1F662F85408A0076A047 /* PedalMateViewModel.swift */; };
+		746A1F9E2F85408A0076A047 /* AddBikeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 746A1F682F85408A0076A047 /* AddBikeView.swift */; };
+		746A1F9F2F85408A0076A047 /* BikesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 746A1F692F85408A0076A047 /* BikesView.swift */; };
+		746A1FA02F85408A0076A047 /* AddChallengeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 746A1F6B2F85408A0076A047 /* AddChallengeView.swift */; };
+		746A1FA12F85408A0076A047 /* ChallengesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 746A1F6C2F85408A0076A047 /* ChallengesView.swift */; };
+		746A1FA22F85408A0076A047 /* BikeCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 746A1F6E2F85408A0076A047 /* BikeCard.swift */; };
+		746A1FA32F85408A0076A047 /* ChallengeCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 746A1F6F2F85408A0076A047 /* ChallengeCard.swift */; };
+		746A1FA42F85408A0076A047 /* RideCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 746A1F702F85408A0076A047 /* RideCard.swift */; };
+		746A1FA52F85408A0076A047 /* RouteCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 746A1F712F85408A0076A047 /* RouteCard.swift */; };
+		746A1FA62F85408A0076A047 /* StatCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 746A1F722F85408A0076A047 /* StatCard.swift */; };
+		746A1FA72F85408A0076A047 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 746A1F752F85408A0076A047 /* HomeView.swift */; };
+		746A1FA82F85408A0076A047 /* AddMaintenanceView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 746A1F772F85408A0076A047 /* AddMaintenanceView.swift */; };
+		746A1FA92F85408A0076A047 /* MaintenanceView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 746A1F782F85408A0076A047 /* MaintenanceView.swift */; };
+		746A1FAA2F85408A0076A047 /* OnboardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 746A1F7A2F85408A0076A047 /* OnboardingView.swift */; };
+		746A1FAB2F85408A0076A047 /* AddRideView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 746A1F7C2F85408A0076A047 /* AddRideView.swift */; };
+		746A1FAC2F85408A0076A047 /* AddRouteView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 746A1F7E2F85408A0076A047 /* AddRouteView.swift */; };
+		746A1FAD2F85408A0076A047 /* RoutesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 746A1F7F2F85408A0076A047 /* RoutesView.swift */; };
+		746A1FAE2F85408A0076A047 /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 746A1F812F85408A0076A047 /* SettingsView.swift */; };
+		746A1FAF2F85408A0076A047 /* StatsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 746A1F832F85408A0076A047 /* StatsView.swift */; };
+		746A1FB02F85408A0076A047 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 746A1F862F85408A0076A047 /* AppDelegate.swift */; };
+		746A1FB12F85408A0076A047 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 746A1F882F85408A0076A047 /* ContentView.swift */; };
+		746A1FB22F85408A0076A047 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 746A1F8E2F85408A0076A047 /* SceneDelegate.swift */; };
+		746A1FB32F85408A0076A047 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 746A1F8F2F85408A0076A047 /* ViewController.swift */; };
+		746A1FB42F85408A0076A047 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 746A1F872F85408A0076A047 /* Assets.xcassets */; };
+		746A1FB62F85408A0076A047 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 746A1F8B2F85408A0076A047 /* LaunchScreen.storyboard */; };
+		746A1FB72F85408A0076A047 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 746A1F8D2F85408A0076A047 /* Main.storyboard */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXFileReference section */
+		0337F284DDFB74962224C7F6 /* Pods-115PedalMate.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-115PedalMate.release.xcconfig"; path = "Target Support Files/Pods-115PedalMate/Pods-115PedalMate.release.xcconfig"; sourceTree = "<group>"; };
+		33EC6C9AF34930DAF873BB84 /* Pods_115PedalMate.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_115PedalMate.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		49C8FC8EE9D97B212E51D3CA /* Pods-115PedalMate.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-115PedalMate.debug.xcconfig"; path = "Target Support Files/Pods-115PedalMate/Pods-115PedalMate.debug.xcconfig"; sourceTree = "<group>"; };
+		746A1F552F85408A0076A047 /* AppExternalLink.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppExternalLink.swift; sourceTree = "<group>"; };
+		746A1F572F85408A0076A047 /* PedalColors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PedalColors.swift; sourceTree = "<group>"; };
+		746A1F582F85408A0076A047 /* PedalDesign.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PedalDesign.swift; sourceTree = "<group>"; };
+		746A1F5A2F85408A0076A047 /* DateFormatting.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DateFormatting.swift; sourceTree = "<group>"; };
+		746A1F5D2F85408A0076A047 /* Bike.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Bike.swift; sourceTree = "<group>"; };
+		746A1F5E2F85408A0076A047 /* BikeMaintenance.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BikeMaintenance.swift; sourceTree = "<group>"; };
+		746A1F5F2F85408A0076A047 /* Challenge.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Challenge.swift; sourceTree = "<group>"; };
+		746A1F602F85408A0076A047 /* Ride.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Ride.swift; sourceTree = "<group>"; };
+		746A1F612F85408A0076A047 /* RideType.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RideType.swift; sourceTree = "<group>"; };
+		746A1F622F85408A0076A047 /* Route.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Route.swift; sourceTree = "<group>"; };
+		746A1F632F85408A0076A047 /* Terrain.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Terrain.swift; sourceTree = "<group>"; };
+		746A1F642F85408A0076A047 /* Weather.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Weather.swift; sourceTree = "<group>"; };
+		746A1F662F85408A0076A047 /* PedalMateViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PedalMateViewModel.swift; sourceTree = "<group>"; };
+		746A1F682F85408A0076A047 /* AddBikeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddBikeView.swift; sourceTree = "<group>"; };
+		746A1F692F85408A0076A047 /* BikesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BikesView.swift; sourceTree = "<group>"; };
+		746A1F6B2F85408A0076A047 /* AddChallengeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddChallengeView.swift; sourceTree = "<group>"; };
+		746A1F6C2F85408A0076A047 /* ChallengesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChallengesView.swift; sourceTree = "<group>"; };
+		746A1F6E2F85408A0076A047 /* BikeCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BikeCard.swift; sourceTree = "<group>"; };
+		746A1F6F2F85408A0076A047 /* ChallengeCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChallengeCard.swift; sourceTree = "<group>"; };
+		746A1F702F85408A0076A047 /* RideCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RideCard.swift; sourceTree = "<group>"; };
+		746A1F712F85408A0076A047 /* RouteCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RouteCard.swift; sourceTree = "<group>"; };
+		746A1F722F85408A0076A047 /* StatCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StatCard.swift; sourceTree = "<group>"; };
+		746A1F752F85408A0076A047 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
+		746A1F772F85408A0076A047 /* AddMaintenanceView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddMaintenanceView.swift; sourceTree = "<group>"; };
+		746A1F782F85408A0076A047 /* MaintenanceView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaintenanceView.swift; sourceTree = "<group>"; };
+		746A1F7A2F85408A0076A047 /* OnboardingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingView.swift; sourceTree = "<group>"; };
+		746A1F7C2F85408A0076A047 /* AddRideView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddRideView.swift; sourceTree = "<group>"; };
+		746A1F7E2F85408A0076A047 /* AddRouteView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddRouteView.swift; sourceTree = "<group>"; };
+		746A1F7F2F85408A0076A047 /* RoutesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoutesView.swift; sourceTree = "<group>"; };
+		746A1F812F85408A0076A047 /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
+		746A1F832F85408A0076A047 /* StatsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StatsView.swift; sourceTree = "<group>"; };
+		746A1F862F85408A0076A047 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		746A1F872F85408A0076A047 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		746A1F882F85408A0076A047 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		746A1F892F85408A0076A047 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		746A1F8A2F85408A0076A047 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		746A1F8C2F85408A0076A047 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		746A1F8E2F85408A0076A047 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		746A1F8F2F85408A0076A047 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		746AFFEB2F7FCF190076A047 /* 115PedalMate.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = 115PedalMate.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
-
-/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		746AFFFD2F7FCF1A0076A047 /* Exceptions for "115PedalMate" folder in "115PedalMate" target */ = {
-			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
-			membershipExceptions = (
-				Info.plist,
-			);
-			target = 746AFFEA2F7FCF190076A047 /* 115PedalMate */;
-		};
-/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
-
-/* Begin PBXFileSystemSynchronizedRootGroup section */
-		746AFFED2F7FCF190076A047 /* 115PedalMate */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			exceptions = (
-				746AFFFD2F7FCF1A0076A047 /* Exceptions for "115PedalMate" folder in "115PedalMate" target */,
-			);
-			path = 115PedalMate;
-			sourceTree = "<group>";
-		};
-/* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
 		746AFFE82F7FCF190076A047 /* Frameworks */ = {
@@ -42,11 +104,203 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		746A1F562F85408A0076A047 /* Config */ = {
+			isa = PBXGroup;
+			children = (
+				746A1F552F85408A0076A047 /* AppExternalLink.swift */,
+			);
+			path = Config;
+			sourceTree = "<group>";
+		};
+		746A1F592F85408A0076A047 /* Theme */ = {
+			isa = PBXGroup;
+			children = (
+				746A1F572F85408A0076A047 /* PedalColors.swift */,
+				746A1F582F85408A0076A047 /* PedalDesign.swift */,
+			);
+			path = Theme;
+			sourceTree = "<group>";
+		};
+		746A1F5B2F85408A0076A047 /* Utilities */ = {
+			isa = PBXGroup;
+			children = (
+				746A1F5A2F85408A0076A047 /* DateFormatting.swift */,
+			);
+			path = Utilities;
+			sourceTree = "<group>";
+		};
+		746A1F5C2F85408A0076A047 /* Core */ = {
+			isa = PBXGroup;
+			children = (
+				746A1F562F85408A0076A047 /* Config */,
+				746A1F592F85408A0076A047 /* Theme */,
+				746A1F5B2F85408A0076A047 /* Utilities */,
+			);
+			path = Core;
+			sourceTree = "<group>";
+		};
+		746A1F652F85408A0076A047 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				746A1F5D2F85408A0076A047 /* Bike.swift */,
+				746A1F5E2F85408A0076A047 /* BikeMaintenance.swift */,
+				746A1F5F2F85408A0076A047 /* Challenge.swift */,
+				746A1F602F85408A0076A047 /* Ride.swift */,
+				746A1F612F85408A0076A047 /* RideType.swift */,
+				746A1F622F85408A0076A047 /* Route.swift */,
+				746A1F632F85408A0076A047 /* Terrain.swift */,
+				746A1F642F85408A0076A047 /* Weather.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		746A1F672F85408A0076A047 /* ViewModels */ = {
+			isa = PBXGroup;
+			children = (
+				746A1F662F85408A0076A047 /* PedalMateViewModel.swift */,
+			);
+			path = ViewModels;
+			sourceTree = "<group>";
+		};
+		746A1F6A2F85408A0076A047 /* Bikes */ = {
+			isa = PBXGroup;
+			children = (
+				746A1F682F85408A0076A047 /* AddBikeView.swift */,
+				746A1F692F85408A0076A047 /* BikesView.swift */,
+			);
+			path = Bikes;
+			sourceTree = "<group>";
+		};
+		746A1F6D2F85408A0076A047 /* Challenges */ = {
+			isa = PBXGroup;
+			children = (
+				746A1F6B2F85408A0076A047 /* AddChallengeView.swift */,
+				746A1F6C2F85408A0076A047 /* ChallengesView.swift */,
+			);
+			path = Challenges;
+			sourceTree = "<group>";
+		};
+		746A1F732F85408A0076A047 /* Components */ = {
+			isa = PBXGroup;
+			children = (
+				746A1F6E2F85408A0076A047 /* BikeCard.swift */,
+				746A1F6F2F85408A0076A047 /* ChallengeCard.swift */,
+				746A1F702F85408A0076A047 /* RideCard.swift */,
+				746A1F712F85408A0076A047 /* RouteCard.swift */,
+				746A1F722F85408A0076A047 /* StatCard.swift */,
+			);
+			path = Components;
+			sourceTree = "<group>";
+		};
+		746A1F742F85408A0076A047 /* Dashboard */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Dashboard;
+			sourceTree = "<group>";
+		};
+		746A1F762F85408A0076A047 /* Home */ = {
+			isa = PBXGroup;
+			children = (
+				746A1F752F85408A0076A047 /* HomeView.swift */,
+			);
+			path = Home;
+			sourceTree = "<group>";
+		};
+		746A1F792F85408A0076A047 /* Maintenance */ = {
+			isa = PBXGroup;
+			children = (
+				746A1F772F85408A0076A047 /* AddMaintenanceView.swift */,
+				746A1F782F85408A0076A047 /* MaintenanceView.swift */,
+			);
+			path = Maintenance;
+			sourceTree = "<group>";
+		};
+		746A1F7B2F85408A0076A047 /* Onboarding */ = {
+			isa = PBXGroup;
+			children = (
+				746A1F7A2F85408A0076A047 /* OnboardingView.swift */,
+			);
+			path = Onboarding;
+			sourceTree = "<group>";
+		};
+		746A1F7D2F85408A0076A047 /* Rides */ = {
+			isa = PBXGroup;
+			children = (
+				746A1F7C2F85408A0076A047 /* AddRideView.swift */,
+			);
+			path = Rides;
+			sourceTree = "<group>";
+		};
+		746A1F802F85408A0076A047 /* Routes */ = {
+			isa = PBXGroup;
+			children = (
+				746A1F7E2F85408A0076A047 /* AddRouteView.swift */,
+				746A1F7F2F85408A0076A047 /* RoutesView.swift */,
+			);
+			path = Routes;
+			sourceTree = "<group>";
+		};
+		746A1F822F85408A0076A047 /* Settings */ = {
+			isa = PBXGroup;
+			children = (
+				746A1F812F85408A0076A047 /* SettingsView.swift */,
+			);
+			path = Settings;
+			sourceTree = "<group>";
+		};
+		746A1F842F85408A0076A047 /* Stats */ = {
+			isa = PBXGroup;
+			children = (
+				746A1F832F85408A0076A047 /* StatsView.swift */,
+			);
+			path = Stats;
+			sourceTree = "<group>";
+		};
+		746A1F852F85408A0076A047 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				746A1F6A2F85408A0076A047 /* Bikes */,
+				746A1F6D2F85408A0076A047 /* Challenges */,
+				746A1F732F85408A0076A047 /* Components */,
+				746A1F742F85408A0076A047 /* Dashboard */,
+				746A1F762F85408A0076A047 /* Home */,
+				746A1F792F85408A0076A047 /* Maintenance */,
+				746A1F7B2F85408A0076A047 /* Onboarding */,
+				746A1F7D2F85408A0076A047 /* Rides */,
+				746A1F802F85408A0076A047 /* Routes */,
+				746A1F822F85408A0076A047 /* Settings */,
+				746A1F842F85408A0076A047 /* Stats */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		746A1F902F85408A0076A047 /* 115PedalMate */ = {
+			isa = PBXGroup;
+			children = (
+				746A1F5C2F85408A0076A047 /* Core */,
+				746A1F652F85408A0076A047 /* Models */,
+				746A1F672F85408A0076A047 /* ViewModels */,
+				746A1F852F85408A0076A047 /* Views */,
+				746A1F862F85408A0076A047 /* AppDelegate.swift */,
+				746A1F872F85408A0076A047 /* Assets.xcassets */,
+				746A1F882F85408A0076A047 /* ContentView.swift */,
+				746A1F892F85408A0076A047 /* Info.plist */,
+				746A1F8B2F85408A0076A047 /* LaunchScreen.storyboard */,
+				746A1F8D2F85408A0076A047 /* Main.storyboard */,
+				746A1F8E2F85408A0076A047 /* SceneDelegate.swift */,
+				746A1F8F2F85408A0076A047 /* ViewController.swift */,
+			);
+			path = 115PedalMate;
+			sourceTree = "<group>";
+		};
 		746AFFE22F7FCF190076A047 = {
 			isa = PBXGroup;
 			children = (
-				746AFFED2F7FCF190076A047 /* 115PedalMate */,
+				746A1F902F85408A0076A047 /* 115PedalMate */,
 				746AFFEC2F7FCF190076A047 /* Products */,
+				F34802424FA6CCAF96C7635B /* Pods */,
+				9F94364F04E8814ABF4D587F /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -58,6 +312,23 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
+		9F94364F04E8814ABF4D587F /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				33EC6C9AF34930DAF873BB84 /* Pods_115PedalMate.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		F34802424FA6CCAF96C7635B /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				49C8FC8EE9D97B212E51D3CA /* Pods-115PedalMate.debug.xcconfig */,
+				0337F284DDFB74962224C7F6 /* Pods-115PedalMate.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -65,6 +336,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 746AFFFE2F7FCF1A0076A047 /* Build configuration list for PBXNativeTarget "115PedalMate" */;
 			buildPhases = (
+				88147782009C7A8734B234CA /* [CP] Check Pods Manifest.lock */,
 				746AFFE72F7FCF190076A047 /* Sources */,
 				746AFFE82F7FCF190076A047 /* Frameworks */,
 				746AFFE92F7FCF190076A047 /* Resources */,
@@ -73,12 +345,7 @@
 			);
 			dependencies = (
 			);
-			fileSystemSynchronizedGroups = (
-				746AFFED2F7FCF190076A047 /* 115PedalMate */,
-			);
 			name = 115PedalMate;
-			packageProductDependencies = (
-			);
 			productName = 115PedalMate;
 			productReference = 746AFFEB2F7FCF190076A047 /* 115PedalMate.app */;
 			productType = "com.apple.product-type.application";
@@ -99,6 +366,7 @@
 				};
 			};
 			buildConfigurationList = 746AFFE62F7FCF190076A047 /* Build configuration list for PBXProject "115PedalMate" */;
+			compatibilityVersion = "Xcode 15.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -106,8 +374,6 @@
 				Base,
 			);
 			mainGroup = 746AFFE22F7FCF190076A047;
-			minimizedProjectReferenceProxies = 1;
-			preferredProjectObjectVersion = 77;
 			productRefGroup = 746AFFEC2F7FCF190076A047 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -122,24 +388,107 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				746A1FB42F85408A0076A047 /* Assets.xcassets in Resources */,
+				746A1FB62F85408A0076A047 /* LaunchScreen.storyboard in Resources */,
+				746A1FB72F85408A0076A047 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		88147782009C7A8734B234CA /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-115PedalMate-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		746AFFE72F7FCF190076A047 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				746A1F912F85408A0076A047 /* AppExternalLink.swift in Sources */,
+				746A1F922F85408A0076A047 /* PedalColors.swift in Sources */,
+				746A1F932F85408A0076A047 /* PedalDesign.swift in Sources */,
+				746A1F942F85408A0076A047 /* DateFormatting.swift in Sources */,
+				746A1F952F85408A0076A047 /* Bike.swift in Sources */,
+				746A1F962F85408A0076A047 /* BikeMaintenance.swift in Sources */,
+				746A1F972F85408A0076A047 /* Challenge.swift in Sources */,
+				746A1F982F85408A0076A047 /* Ride.swift in Sources */,
+				746A1F992F85408A0076A047 /* RideType.swift in Sources */,
+				746A1F9A2F85408A0076A047 /* Route.swift in Sources */,
+				746A1F9B2F85408A0076A047 /* Terrain.swift in Sources */,
+				746A1F9C2F85408A0076A047 /* Weather.swift in Sources */,
+				746A1F9D2F85408A0076A047 /* PedalMateViewModel.swift in Sources */,
+				746A1F9E2F85408A0076A047 /* AddBikeView.swift in Sources */,
+				746A1F9F2F85408A0076A047 /* BikesView.swift in Sources */,
+				746A1FA02F85408A0076A047 /* AddChallengeView.swift in Sources */,
+				746A1FA12F85408A0076A047 /* ChallengesView.swift in Sources */,
+				746A1FA22F85408A0076A047 /* BikeCard.swift in Sources */,
+				746A1FA32F85408A0076A047 /* ChallengeCard.swift in Sources */,
+				746A1FA42F85408A0076A047 /* RideCard.swift in Sources */,
+				746A1FA52F85408A0076A047 /* RouteCard.swift in Sources */,
+				746A1FA62F85408A0076A047 /* StatCard.swift in Sources */,
+				746A1FA72F85408A0076A047 /* HomeView.swift in Sources */,
+				746A1FA82F85408A0076A047 /* AddMaintenanceView.swift in Sources */,
+				746A1FA92F85408A0076A047 /* MaintenanceView.swift in Sources */,
+				746A1FAA2F85408A0076A047 /* OnboardingView.swift in Sources */,
+				746A1FAB2F85408A0076A047 /* AddRideView.swift in Sources */,
+				746A1FAC2F85408A0076A047 /* AddRouteView.swift in Sources */,
+				746A1FAD2F85408A0076A047 /* RoutesView.swift in Sources */,
+				746A1FAE2F85408A0076A047 /* SettingsView.swift in Sources */,
+				746A1FAF2F85408A0076A047 /* StatsView.swift in Sources */,
+				746A1FB02F85408A0076A047 /* AppDelegate.swift in Sources */,
+				746A1FB12F85408A0076A047 /* ContentView.swift in Sources */,
+				746A1FB22F85408A0076A047 /* SceneDelegate.swift in Sources */,
+				746A1FB32F85408A0076A047 /* ViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
+/* Begin PBXVariantGroup section */
+		746A1F8B2F85408A0076A047 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				746A1F8A2F85408A0076A047 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+		746A1F8D2F85408A0076A047 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				746A1F8C2F85408A0076A047 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
 /* Begin XCBuildConfiguration section */
 		746A00002F7FCF1A0076A047 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 0337F284DDFB74962224C7F6 /* Pods-115PedalMate.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
@@ -147,25 +496,31 @@
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = 115PedalMate/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "PedalMate Challenges";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.6;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.mycompany.-15PedalMate";
+				PRODUCT_BUNDLE_IDENTIFIER = com.mac.p3dm4tch4ll;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRING_CATALOG_GENERATE_SYMBOLS = YES;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
 				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
@@ -290,6 +645,7 @@
 		};
 		746AFFFF2F7FCF1A0076A047 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 49C8FC8EE9D97B212E51D3CA /* Pods-115PedalMate.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
@@ -297,25 +653,31 @@
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = 115PedalMate/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "PedalMate Challenges";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.6;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.mycompany.-15PedalMate";
+				PRODUCT_BUNDLE_IDENTIFIER = com.mac.p3dm4tch4ll;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRING_CATALOG_GENERATE_SYMBOLS = YES;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
 				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};

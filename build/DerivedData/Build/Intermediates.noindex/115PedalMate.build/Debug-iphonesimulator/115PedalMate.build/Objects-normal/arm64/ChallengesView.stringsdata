@@ -1,0 +1,40 @@
+{
+  "source": "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/115PedalMate/115PedalMate/Views/Challenges/ChallengesView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Challenges",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 54
+        }
+      },
+      {
+        "comment": "",
+        "key": "Delete",
+        "location": {
+          "startingColumn": 39,
+          "startingLine": 24
+        }
+      },
+      {
+        "comment": "",
+        "key": "Complete",
+        "location": {
+          "startingColumn": 43,
+          "startingLine": 31
+        }
+      },
+      {
+        "comment": "",
+        "key": "New challenge",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 39
+        }
+      }
+    ]
+  },
+  "version": 1
+}

@@ -1,0 +1,56 @@
+{
+  "source": "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/115PedalMate/115PedalMate/Views/Components/ChallengeCard.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Due %@",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 80
+        }
+      },
+      {
+        "comment": "",
+        "key": "Completed!",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 21
+        }
+      },
+      {
+        "comment": "",
+        "key": "Distance:",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 48
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld/%lld km",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 52
+        }
+      },
+      {
+        "comment": "",
+        "key": "Days:",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 64
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld/%lld",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 68
+        }
+      }
+    ]
+  },
+  "version": 1
+}

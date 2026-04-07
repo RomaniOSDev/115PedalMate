@@ -1,0 +1,240 @@
+{
+  "source": "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/115PedalMate/115PedalMate/Views/Home/HomeView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Add ride",
+        "location": {
+          "startingColumn": 29,
+          "startingLine": 432
+        }
+      },
+      {
+        "comment": "",
+        "key": "Settings",
+        "location": {
+          "startingColumn": 41,
+          "startingLine": 65
+        }
+      },
+      {
+        "comment": "",
+        "key": "You logged ",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 87
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 45,
+          "startingLine": 87
+        }
+      },
+      {
+        "comment": "",
+        "key": " rides in the last 7 days.",
+        "location": {
+          "startingColumn": 84,
+          "startingLine": 87
+        }
+      },
+      {
+        "comment": "",
+        "key": "%@ km this week",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 94
+        }
+      },
+      {
+        "comment": "",
+        "key": "Overview",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 139
+        }
+      },
+      {
+        "comment": "",
+        "key": "Weekly goal",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 180
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld / %lld km",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 184
+        }
+      },
+      {
+        "comment": "",
+        "key": "Weekly distance target reached — great work.",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 219
+        }
+      },
+      {
+        "comment": "",
+        "key": "You are on track — keep going.",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 227
+        }
+      },
+      {
+        "comment": "",
+        "key": "About ",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 231
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld km",
+        "location": {
+          "startingColumn": 48,
+          "startingLine": 231
+        }
+      },
+      {
+        "comment": "",
+        "key": " left to hit your weekly goal.",
+        "location": {
+          "startingColumn": 114,
+          "startingLine": 231
+        }
+      },
+      {
+        "comment": "",
+        "key": "Last ride",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 246
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld km",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 261
+        }
+      },
+      {
+        "comment": "",
+        "key": "Shortcuts",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 302
+        }
+      },
+      {
+        "comment": "",
+        "key": "Recent rides",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 339
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld shown",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 344
+        }
+      },
+      {
+        "comment": "",
+        "key": "Remove favorite",
+        "location": {
+          "startingColumn": 59,
+          "startingLine": 365
+        }
+      },
+      {
+        "comment": "",
+        "key": "Favorite",
+        "location": {
+          "startingColumn": 79,
+          "startingLine": 365
+        }
+      },
+      {
+        "comment": "",
+        "key": "Delete",
+        "location": {
+          "startingColumn": 43,
+          "startingLine": 372
+        }
+      },
+      {
+        "comment": "",
+        "key": "No rides yet",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 386
+        }
+      },
+      {
+        "comment": "",
+        "key": "Tap ",
+        "location": {
+          "startingColumn": 19,
+          "startingLine": 389
+        }
+      },
+      {
+        "comment": "",
+        "key": "Log ride",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 389
+        }
+      },
+      {
+        "comment": "",
+        "key": " or the + button to add your first entry.",
+        "location": {
+          "startingColumn": 95,
+          "startingLine": 389
+        }
+      },
+      {
+        "comment": "",
+        "key": "Add ride",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 396
+        }
+      },
+      {
+        "comment": "",
+        "key": "Ride details",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 444
+        }
+      },
+      {
+        "comment": "",
+        "key": "Close",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 448
+        }
+      }
+    ]
+  },
+  "version": 1
+}

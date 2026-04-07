@@ -1,0 +1,64 @@
+{
+  "source": "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/115PedalMate/115PedalMate/Views/Stats/StatsView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Statistics",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 100
+        }
+      },
+      {
+        "comment": "",
+        "key": "Distance by month",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 48
+        }
+      },
+      {
+        "comment": "",
+        "key": "Month",
+        "location": {
+          "startingColumn": 47,
+          "startingLine": 55
+        }
+      },
+      {
+        "comment": "",
+        "key": "Km",
+        "location": {
+          "startingColumn": 47,
+          "startingLine": 56
+        }
+      },
+      {
+        "comment": "",
+        "key": "Ride types",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 68
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld km",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 83
+        }
+      },
+      {
+        "comment": "",
+        "key": "(%lld%%)",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 86
+        }
+      }
+    ]
+  },
+  "version": 1
+}

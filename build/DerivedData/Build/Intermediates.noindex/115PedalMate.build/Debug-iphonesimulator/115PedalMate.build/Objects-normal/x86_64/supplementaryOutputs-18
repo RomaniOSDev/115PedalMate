@@ -1,0 +1,23 @@
+{
+  "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/115PedalMate/115PedalMate/AppDelegate.swift" : {
+    "const-values" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/115PedalMate/build/DerivedData/Build/Intermediates.noindex/115PedalMate.build/Debug-iphonesimulator/115PedalMate.build/Objects-normal/x86_64/AppDelegate.swiftconstvalues",
+    "dependencies" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/115PedalMate/build/DerivedData/Build/Intermediates.noindex/115PedalMate.build/Debug-iphonesimulator/115PedalMate.build/Objects-normal/x86_64/AppDelegate.d",
+    "diagnostics" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/115PedalMate/build/DerivedData/Build/Intermediates.noindex/115PedalMate.build/Debug-iphonesimulator/115PedalMate.build/Objects-normal/x86_64/AppDelegate.dia",
+    "object" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/115PedalMate/build/DerivedData/Build/Intermediates.noindex/115PedalMate.build/Debug-iphonesimulator/115PedalMate.build/Objects-normal/x86_64/AppDelegate.o",
+    "swift-dependencies" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/115PedalMate/build/DerivedData/Build/Intermediates.noindex/115PedalMate.build/Debug-iphonesimulator/115PedalMate.build/Objects-normal/x86_64/AppDelegate.swiftdeps"
+  },
+  "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/115PedalMate/115PedalMate/ContentView.swift" : {
+    "const-values" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/115PedalMate/build/DerivedData/Build/Intermediates.noindex/115PedalMate.build/Debug-iphonesimulator/115PedalMate.build/Objects-normal/x86_64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/115PedalMate/build/DerivedData/Build/Intermediates.noindex/115PedalMate.build/Debug-iphonesimulator/115PedalMate.build/Objects-normal/x86_64/ContentView.d",
+    "diagnostics" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/115PedalMate/build/DerivedData/Build/Intermediates.noindex/115PedalMate.build/Debug-iphonesimulator/115PedalMate.build/Objects-normal/x86_64/ContentView.dia",
+    "object" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/115PedalMate/build/DerivedData/Build/Intermediates.noindex/115PedalMate.build/Debug-iphonesimulator/115PedalMate.build/Objects-normal/x86_64/ContentView.o",
+    "swift-dependencies" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/115PedalMate/build/DerivedData/Build/Intermediates.noindex/115PedalMate.build/Debug-iphonesimulator/115PedalMate.build/Objects-normal/x86_64/ContentView.swiftdeps"
+  },
+  "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/115PedalMate/115PedalMate/Views/Stats/StatsView.swift" : {
+    "const-values" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/115PedalMate/build/DerivedData/Build/Intermediates.noindex/115PedalMate.build/Debug-iphonesimulator/115PedalMate.build/Objects-normal/x86_64/StatsView.swiftconstvalues",
+    "dependencies" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/115PedalMate/build/DerivedData/Build/Intermediates.noindex/115PedalMate.build/Debug-iphonesimulator/115PedalMate.build/Objects-normal/x86_64/StatsView.d",
+    "diagnostics" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/115PedalMate/build/DerivedData/Build/Intermediates.noindex/115PedalMate.build/Debug-iphonesimulator/115PedalMate.build/Objects-normal/x86_64/StatsView.dia",
+    "object" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/115PedalMate/build/DerivedData/Build/Intermediates.noindex/115PedalMate.build/Debug-iphonesimulator/115PedalMate.build/Objects-normal/x86_64/StatsView.o",
+    "swift-dependencies" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/115PedalMate/build/DerivedData/Build/Intermediates.noindex/115PedalMate.build/Debug-iphonesimulator/115PedalMate.build/Objects-normal/x86_64/StatsView.swiftdeps"
+  }
+}

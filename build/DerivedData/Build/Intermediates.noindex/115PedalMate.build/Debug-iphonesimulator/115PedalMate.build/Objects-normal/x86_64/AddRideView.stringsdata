@@ -1,0 +1,272 @@
+{
+  "source": "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/115PedalMate/115PedalMate/Views/Rides/AddRideView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "New ride",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 161
+        }
+      },
+      {
+        "comment": "",
+        "key": "Route",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 56
+        }
+      },
+      {
+        "comment": "",
+        "key": "Speed",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 87
+        }
+      },
+      {
+        "comment": "",
+        "key": "Conditions",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 109
+        }
+      },
+      {
+        "comment": "",
+        "key": "Vitals",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 125
+        }
+      },
+      {
+        "comment": "",
+        "key": "Notes",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 146
+        }
+      },
+      {
+        "comment": "",
+        "key": "Date & time",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 33
+        }
+      },
+      {
+        "comment": "",
+        "key": "Ride type",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 36
+        }
+      },
+      {
+        "comment": "",
+        "key": "Bike",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 43
+        }
+      },
+      {
+        "comment": "",
+        "key": "Add new bike",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 47
+        }
+      },
+      {
+        "comment": "",
+        "key": "Route name",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 57
+        }
+      },
+      {
+        "comment": "",
+        "key": "Distance (km)",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 62
+        }
+      },
+      {
+        "comment": "",
+        "key": "",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 64
+        }
+      },
+      {
+        "comment": "",
+        "key": "Time (min)",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 71
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 33,
+          "startingLine": 73
+        }
+      },
+      {
+        "comment": "",
+        "key": "Elevation (m)",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 78
+        }
+      },
+      {
+        "comment": "",
+        "key": "",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 80
+        }
+      },
+      {
+        "comment": "",
+        "key": "Average speed",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 89
+        }
+      },
+      {
+        "comment": "",
+        "key": "km/h",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 95
+        }
+      },
+      {
+        "comment": "",
+        "key": "",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 91
+        }
+      },
+      {
+        "comment": "",
+        "key": "Max speed",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 99
+        }
+      },
+      {
+        "comment": "",
+        "key": "km/h",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 105
+        }
+      },
+      {
+        "comment": "",
+        "key": "",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 101
+        }
+      },
+      {
+        "comment": "",
+        "key": "Surface",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 110
+        }
+      },
+      {
+        "comment": "",
+        "key": "Weather",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 117
+        }
+      },
+      {
+        "comment": "",
+        "key": "Calories",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 127
+        }
+      },
+      {
+        "comment": "",
+        "key": "",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 129
+        }
+      },
+      {
+        "comment": "",
+        "key": "Avg heart rate",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 136
+        }
+      },
+      {
+        "comment": "",
+        "key": "bpm",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 142
+        }
+      },
+      {
+        "comment": "",
+        "key": "",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 138
+        }
+      },
+      {
+        "comment": "",
+        "key": "Add to favorites",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 154
+        }
+      },
+      {
+        "comment": "",
+        "key": "Cancel",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 165
+        }
+      },
+      {
+        "comment": "",
+        "key": "Save ride",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 171
+        }
+      }
+    ]
+  },
+  "version": 1
+}

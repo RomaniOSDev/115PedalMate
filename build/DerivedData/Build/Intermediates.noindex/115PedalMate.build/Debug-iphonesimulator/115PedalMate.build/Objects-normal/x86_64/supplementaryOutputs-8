@@ -1,0 +1,23 @@
+{
+  "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/115PedalMate/115PedalMate/Views/Bikes/AddBikeView.swift" : {
+    "const-values" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/115PedalMate/build/DerivedData/Build/Intermediates.noindex/115PedalMate.build/Debug-iphonesimulator/115PedalMate.build/Objects-normal/x86_64/AddBikeView.swiftconstvalues",
+    "dependencies" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/115PedalMate/build/DerivedData/Build/Intermediates.noindex/115PedalMate.build/Debug-iphonesimulator/115PedalMate.build/Objects-normal/x86_64/AddBikeView.d",
+    "diagnostics" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/115PedalMate/build/DerivedData/Build/Intermediates.noindex/115PedalMate.build/Debug-iphonesimulator/115PedalMate.build/Objects-normal/x86_64/AddBikeView.dia",
+    "object" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/115PedalMate/build/DerivedData/Build/Intermediates.noindex/115PedalMate.build/Debug-iphonesimulator/115PedalMate.build/Objects-normal/x86_64/AddBikeView.o",
+    "swift-dependencies" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/115PedalMate/build/DerivedData/Build/Intermediates.noindex/115PedalMate.build/Debug-iphonesimulator/115PedalMate.build/Objects-normal/x86_64/AddBikeView.swiftdeps"
+  },
+  "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/115PedalMate/115PedalMate/Views/Bikes/BikesView.swift" : {
+    "const-values" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/115PedalMate/build/DerivedData/Build/Intermediates.noindex/115PedalMate.build/Debug-iphonesimulator/115PedalMate.build/Objects-normal/x86_64/BikesView.swiftconstvalues",
+    "dependencies" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/115PedalMate/build/DerivedData/Build/Intermediates.noindex/115PedalMate.build/Debug-iphonesimulator/115PedalMate.build/Objects-normal/x86_64/BikesView.d",
+    "diagnostics" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/115PedalMate/build/DerivedData/Build/Intermediates.noindex/115PedalMate.build/Debug-iphonesimulator/115PedalMate.build/Objects-normal/x86_64/BikesView.dia",
+    "object" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/115PedalMate/build/DerivedData/Build/Intermediates.noindex/115PedalMate.build/Debug-iphonesimulator/115PedalMate.build/Objects-normal/x86_64/BikesView.o",
+    "swift-dependencies" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/115PedalMate/build/DerivedData/Build/Intermediates.noindex/115PedalMate.build/Debug-iphonesimulator/115PedalMate.build/Objects-normal/x86_64/BikesView.swiftdeps"
+  },
+  "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/115PedalMate/115PedalMate/Views/Challenges/AddChallengeView.swift" : {
+    "const-values" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/115PedalMate/build/DerivedData/Build/Intermediates.noindex/115PedalMate.build/Debug-iphonesimulator/115PedalMate.build/Objects-normal/x86_64/AddChallengeView.swiftconstvalues",
+    "dependencies" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/115PedalMate/build/DerivedData/Build/Intermediates.noindex/115PedalMate.build/Debug-iphonesimulator/115PedalMate.build/Objects-normal/x86_64/AddChallengeView.d",
+    "diagnostics" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/115PedalMate/build/DerivedData/Build/Intermediates.noindex/115PedalMate.build/Debug-iphonesimulator/115PedalMate.build/Objects-normal/x86_64/AddChallengeView.dia",
+    "object" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/115PedalMate/build/DerivedData/Build/Intermediates.noindex/115PedalMate.build/Debug-iphonesimulator/115PedalMate.build/Objects-normal/x86_64/AddChallengeView.o",
+    "swift-dependencies" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/115PedalMate/build/DerivedData/Build/Intermediates.noindex/115PedalMate.build/Debug-iphonesimulator/115PedalMate.build/Objects-normal/x86_64/AddChallengeView.swiftdeps"
+  }
+}

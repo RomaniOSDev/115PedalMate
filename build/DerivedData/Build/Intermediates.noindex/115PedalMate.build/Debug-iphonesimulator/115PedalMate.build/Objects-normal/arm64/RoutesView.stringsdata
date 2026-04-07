@@ -1,0 +1,56 @@
+{
+  "source": "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/115PedalMate/115PedalMate/Views/Routes/RoutesView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Routes",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 56
+        }
+      },
+      {
+        "comment": "",
+        "key": "Delete",
+        "location": {
+          "startingColumn": 39,
+          "startingLine": 25
+        }
+      },
+      {
+        "comment": "",
+        "key": "Favorite",
+        "location": {
+          "startingColumn": 39,
+          "startingLine": 31
+        }
+      },
+      {
+        "comment": "",
+        "key": "Add route",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 41
+        }
+      },
+      {
+        "comment": "",
+        "key": "Route details",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 67
+        }
+      },
+      {
+        "comment": "",
+        "key": "Close",
+        "location": {
+          "startingColumn": 36,
+          "startingLine": 71
+        }
+      }
+    ]
+  },
+  "version": 1
+}

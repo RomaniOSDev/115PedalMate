@@ -1,0 +1,24 @@
+{
+  "source": "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/115PedalMate/115PedalMate/Views/Components/BikeCard.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "%lld km",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 57
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld rides",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 61
+        }
+      }
+    ]
+  },
+  "version": 1
+}

@@ -1,0 +1,48 @@
+{
+  "source": "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/115PedalMate/115PedalMate/Views/Settings/SettingsView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Settings",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 42
+        }
+      },
+      {
+        "comment": "",
+        "key": "Rate us",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 17
+        }
+      },
+      {
+        "comment": "",
+        "key": "Privacy policy",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 24
+        }
+      },
+      {
+        "comment": "",
+        "key": "Terms of use",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 31
+        }
+      },
+      {
+        "comment": "",
+        "key": "Support & legal",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 35
+        }
+      }
+    ]
+  },
+  "version": 1
+}

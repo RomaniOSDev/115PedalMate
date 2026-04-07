@@ -1,0 +1,88 @@
+{
+  "source": "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/115PedalMate/115PedalMate/Views/Bikes/AddBikeView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "New bike",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 51
+        }
+      },
+      {
+        "comment": "",
+        "key": "Notes",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 38
+        }
+      },
+      {
+        "comment": "",
+        "key": "Name",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 25
+        }
+      },
+      {
+        "comment": "",
+        "key": "Type",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 27
+        }
+      },
+      {
+        "comment": "",
+        "key": "Color",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 28
+        }
+      },
+      {
+        "comment": "",
+        "key": "Weight (kg)",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 30
+        }
+      },
+      {
+        "comment": "",
+        "key": "",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 32
+        }
+      },
+      {
+        "comment": "",
+        "key": "Set as primary bike",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 44
+        }
+      },
+      {
+        "comment": "",
+        "key": "Cancel",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 55
+        }
+      },
+      {
+        "comment": "",
+        "key": "Save",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 61
+        }
+      }
+    ]
+  },
+  "version": 1
+}

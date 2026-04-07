@@ -1,0 +1,40 @@
+{
+  "source": "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/115PedalMate/115PedalMate/Views/Onboarding/OnboardingView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Skip",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 99
+        }
+      },
+      {
+        "comment": "",
+        "key": "Back",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 88
+        }
+      },
+      {
+        "comment": "",
+        "key": "Get started",
+        "location": {
+          "startingColumn": 48,
+          "startingLine": 121
+        }
+      },
+      {
+        "comment": "",
+        "key": "Next",
+        "location": {
+          "startingColumn": 64,
+          "startingLine": 121
+        }
+      }
+    ]
+  },
+  "version": 1
+}

@@ -1,0 +1,24 @@
+{
+  "source": "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/115PedalMate/115PedalMate/Views/Components/RideCard.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "%lld km",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 30
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld m",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 56
+        }
+      }
+    ]
+  },
+  "version": 1
+}

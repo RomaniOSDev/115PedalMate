@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>12</integer>
+	<key>logs</key>
+	<dict>
+		<key>E1A037A4-0F7F-4B68-85B4-DC8F85AB0412</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E1A037A4-0F7F-4B68-85B4-DC8F85AB0412.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>115PedalMate project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>115PedalMate</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project 115PedalMate with scheme 115PedalMate</string>
+			<key>timeStartedRecording</key>
+			<real>796906607.24692798</real>
+			<key>timeStoppedRecording</key>
+			<real>796906613.07351696</real>
+			<key>title</key>
+			<string>Building project 115PedalMate with scheme 115PedalMate</string>
+			<key>uniqueIdentifier</key>
+			<string>E1A037A4-0F7F-4B68-85B4-DC8F85AB0412</string>
+		</dict>
+		<key>E8A7FE44-BBF0-4162-AF1F-67ADF0B24DF3</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E8A7FE44-BBF0-4162-AF1F-67ADF0B24DF3.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>115PedalMate project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>115PedalMate</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project 115PedalMate with scheme 115PedalMate</string>
+			<key>timeStartedRecording</key>
+			<real>796906090.83300197</real>
+			<key>timeStoppedRecording</key>
+			<real>796906096.146999</real>
+			<key>title</key>
+			<string>Building project 115PedalMate with scheme 115PedalMate</string>
+			<key>uniqueIdentifier</key>
+			<string>E8A7FE44-BBF0-4162-AF1F-67ADF0B24DF3</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

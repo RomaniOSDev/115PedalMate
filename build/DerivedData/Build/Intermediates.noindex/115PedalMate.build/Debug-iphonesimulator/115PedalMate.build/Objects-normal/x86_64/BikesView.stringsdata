@@ -1,0 +1,48 @@
+{
+  "source": "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/115PedalMate/115PedalMate/Views/Bikes/BikesView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "My bikes",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 52
+        }
+      },
+      {
+        "comment": "",
+        "key": "Delete",
+        "location": {
+          "startingColumn": 39,
+          "startingLine": 24
+        }
+      },
+      {
+        "comment": "",
+        "key": "Primary",
+        "location": {
+          "startingColumn": 39,
+          "startingLine": 30
+        }
+      },
+      {
+        "comment": "",
+        "key": "Add bike",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 37
+        }
+      },
+      {
+        "comment": "",
+        "key": "Maintenance",
+        "location": {
+          "startingColumn": 41,
+          "startingLine": 61
+        }
+      }
+    ]
+  },
+  "version": 1
+}
